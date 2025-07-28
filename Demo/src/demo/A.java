@@ -5,5 +5,7 @@ public static void main(String[] args) {
 	System.out.println("git demo");
 	
 	System.out.println("Edit after added to the repo..");
+
+	System.out.println("Edit in github");
 }
 }
